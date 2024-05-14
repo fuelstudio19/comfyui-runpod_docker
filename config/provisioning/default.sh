@@ -16,6 +16,8 @@ NODES=(
 
 CHECKPOINT_MODELS=(
     "https://huggingface.co/misri/realismEngineSDXL_v30VAE/blob/main/realismEngineSDXL_v30VAE.safetensors"
+    "https://huggingface.co/lllyasviel/fav_models/blob/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+    "https://huggingface.co/lllyasviel/fav_models/blob/main/fav/realisticStockPhoto_v20.safetensors"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
